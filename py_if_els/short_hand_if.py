@@ -33,3 +33,13 @@ username = ""
 display_name = username if username else " kaushik chavda "
 
 print("welcome", display_name)
+
+# logical operators in py
+# the and operators
+
+a = 200
+b = 30
+c = 500
+if a > b and c > a:
+
+    print("bouth condition true")
